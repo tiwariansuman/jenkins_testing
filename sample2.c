@@ -4,11 +4,7 @@
 // Driver code
 int main()
 {
-	int x, y;
-	printf("Enter Value of x ");
-	scanf("%d", &x);
-	printf("\nEnter Value of y ");
-	scanf("%d", &y);
+	int x=10, y=20;
 
 	// Using a temporary variable to swap the values
 	// Store the value of x in a temporary variable
